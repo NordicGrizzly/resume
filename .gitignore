@@ -1,0 +1,4 @@
+# latex log files
+*.log
+# built PDF files
+*.pdf
